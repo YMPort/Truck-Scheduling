@@ -23,4 +23,4 @@ After these steps, you will be able to use the application.
 
 Copyright
 
-If you find this open-source application useful, You are free to use the this application for research prupose only. All publications that use this code should referece "Y. Wang, W. Liu, C. Wang, F. Fadzil, S. Lauria and X. Liu. A novel multi-objective optimization approach with flexible operation planning strategy for truck scheduling. International Journal of Network Dynamics and Intelligence. DOI:10.53941/ijndi.2023.100002, 2023".
+If you find this open-source application useful, you are free to use the this application for research prupose only. All publications that use this code should referece "Y. Wang, W. Liu, C. Wang, F. Fadzil, S. Lauria and X. Liu. A novel multi-objective optimization approach with flexible operation planning strategy for truck scheduling. International Journal of Network Dynamics and Intelligence. DOI:10.53941/ijndi.2023.100002, 2023".
